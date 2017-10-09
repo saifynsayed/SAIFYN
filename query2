@@ -1,0 +1,5 @@
+x='apple'
+condition1:
+print('string is in lower case:')
+else:
+print('string is not in lower caser:')
